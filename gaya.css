@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+body {
+  min-height: 2000px;
+}
+
+#Gallery {
+  background-color: #ff5500;
+}
+#pesan {
+  background-color: #ffd700;
+}
